@@ -1,5 +1,6 @@
 = Rubymine Extensions - Colors
 
+
 Installation
 
 navigate to your rubymine preferences directory (ex: cd ~/Library/Preferences/RubyMine30)
