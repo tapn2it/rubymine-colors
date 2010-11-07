@@ -2,7 +2,7 @@
 <scheme name="myrailscast" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Courier" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
     <option name="CARET_COLOR" value="ffff00" />
